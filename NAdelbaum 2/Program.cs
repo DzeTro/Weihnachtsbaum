@@ -5,7 +5,6 @@ Console.WriteLine("             *****               ", Console.ForegroundColor =
 
 
 int numb = 0;
-
 Console.Write("Höhe (Reihen) = ");
 numb = int.Parse(Console.ReadLine());
 
